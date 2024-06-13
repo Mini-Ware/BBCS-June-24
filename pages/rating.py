@@ -61,4 +61,18 @@ for category in categories:
         st.write("Most correlated unigrams:\n. {}".format('\n. '.join(unigrams[-N:])))
         st.write("Most correlated bigrams:\n. {}".format('\n. '.join(bigrams[-N:])))
 
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.naive_bayes import MultinomialNB
 
+X_train, X_test, y_train, y_test = train_test_split(df['comment'], df['category'], random_state = 0)
+count_vect = CountVectorizer()
+X_train_counts = count_vect.fit_transform(X_train)
+tfidf_transformer = TfidfTransformer()
+X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
+clf = SVC(kernel='linear').fit(X_train_tfidf, y_train)
+
+# results
+st.subheader("Evaluation")
+st.write("Issue category: "+str(clf.predict(count_vect.transform([comment]))))
