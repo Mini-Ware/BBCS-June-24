@@ -1,0 +1,602 @@
+comment,category
+Text is barely visible against the light blue background.,colour
+Light gray text on a white background is hard to read.,colour
+Red and green buttons are difficult to distinguish for colorblind users.,colour
+Low contrast between text and background makes it hard for visually impaired users.,colour
+Yellow text on a black background creates eye strain.,colour
+Black text on a dark gray background is unreadable.,colour
+Inconsistent color scheme makes it hard to follow the content.,colour
+Important information displayed in a low contrast color.,colour
+Lack of color contrast between links and surrounding text.,colour
+Charts and graphs use colors that are not colorblind-friendly.,colour
+Buttons lack enough color contrast for easy identification.,colour
+Icons are difficult to see due to poor color choices.,colour
+Error messages in light pink text; barely noticeable.,colour
+Website's overall color scheme is overwhelming and visually jarring.,colour
+Light yellow text on a light green background makes reading difficult.,colour
+Use of neon colors makes the website difficult to navigate.,colour
+Color scheme doesn't create a clear hierarchy of information.,colour
+Important calls to action blend in with surrounding text due to poor color contrast.,colour
+Website relies heavily on color to convey information; inaccessible for some users.,colour
+Text appears blurry due to similar background and text color.,colour
+Form fields lack clear contrast between text and background.,colour
+Popups have text that's difficult to read due to low contrast.,colour
+Required fields not highlighted with enough color distinction.,colour
+Links blend in with surrounding text; making them hard to identify.,colour
+Colorblind users struggle to differentiate between success and error messages.,colour
+Missing alternative text descriptions for colored icons.,colour
+Charts rely solely on color to convey data; inaccessible for some users.,colour
+Color choices create a visually confusing layout.,colour
+Website uses excessive saturation; causing eye strain.,colour
+Color scheme doesn't consider cultural color meanings.,colour
+Lack of color adjustments for different screen brightness levels.,colour
+Text size and color combination make reading on mobile difficult.,colour
+Website doesn't offer options to adjust color contrast.,colour
+Color choices clash; making the website visually unappealing.,colour
+Important information hidden within decorative colored elements.,colour
+Color scheme doesn't provide clear visual cues for interactivity.,colour
+Website relies on color coding for navigation; inaccessible for colorblind users.,colour
+Insufficient contrast between foreground and background images.,colour
+Color choices do not create a sense of visual hierarchy.,colour
+Text appears faded due to light background color.,colour
+Inline links use the same color as surrounding text; making them invisible.,colour
+Limited color palette makes the website feel bland and monotonous.,colour
+Color scheme doesn't reflect the website's overall brand identity.,colour
+Use of color gradients makes text readability inconsistent.,colour
+Color choices do not consider user interface (UI) best practices.,colour
+Important buttons lack clear hover state due to insufficient color change.,colour
+Website relies on hover effects for color contrast; inaccessible for touch devices.,colour
+Color choices do not consider the potential for color blindness simulation tools.,colour
+Limited color options make it difficult to distinguish between different sections.,colour
+Website uses color to denote urgency; inaccessible for users who rely on text alone.,colour
+Color choices evoke negative emotions; impacting user experience.,colour
+Text appears washed out due to high background brightness.,colour
+Color scheme lacks accessibility considerations for users with cataracts.,colour
+Color choices do not consider the potential for visual crowding.,colour
+Website relies on color to differentiate between focusable and non-focusable elements.,colour
+Color scheme creates a sense of disorientation for users with vestibular disorders.,colour
+Limited color customization options hinder personalization for users with visual impairments.,colour
+Color choices do not consider the potential for cultural sensitivities.,colour
+Website uses color to denote required form fields; inaccessible for users with color blindness.,colour
+Text box cursor blends in with background color; making it hard to locate.,colour
+Progress bars lack clear color differentiation between completed and remaining sections.,colour
+Background image clashes with foreground text; hindering readability.,colour
+Color scheme evokes feelings of anxiety and stress for some users.,colour
+Limited color options make it difficult to distinguish between error and warning messages.,colour
+Website relies on color to indicate focus for keyboard navigation; inaccessible for some users.,colour
+Color choices do not consider the potential for age-related vision changes.,colour
+Charts and graphs use colors that are culturally insensitive.,colour
+Color scheme lacks sufficient contrast for users with low vision.,colour
+Website relies on color to differentiate between active and inactive filters.,colour
+Color choices do not consider the potential for users with cognitive disabilities.,colour
+Text appears shadowed in a way that reduces readability.,colour
+Color scheme creates a sense of dizziness for users with motion sickness.,colour
+Limited color options make it difficult to differentiate between drop-down menu options.,colour
+Website uses color to indicate different user roles; inaccessible for users with color blindness.,colour
+Color choices do not consider the potential for users with photosensitive epilepsy.,colour
+Website relies on color to differentiate between read and unread messages.,colour
+Color scheme lacks clear visual cues for user feedback (e.g.; success; error).,colour
+Limited color customization options make it difficult to adjust for individual preferences.,colour
+Website uses color to highlight important information; inaccessible for users with color blindness.,colour
+Text appears pixellated due to low color contrast with background.,colour
+Placeholder text in forms blends in with background; making it invisible.,colour
+Color scheme evokes feelings of sadness and depression for some users.,colour
+Limited color options make it difficult to distinguish between informational and actionable elements.,colour
+Charts and graphs rely on overly saturated colors; causing eye strain.,colour
+Website uses color to indicate different pricing tiers; inaccessible for colorblind users.,colour
+Color choices create a sense of clutter and overwhelm for users with ADHD.,colour
+Insufficient color contrast between text and underlines makes them hard to read.,colour
+Color scheme lacks clear visual separation between headers and body content.,colour
+Website relies on color to differentiate between mandatory and optional form fields.,colour
+Color choices do not consider the potential for users with dyslexia.,colour
+Text appears blurry due to a patterned background with low color contrast.,colour
+Color scheme creates a sense of instability for users with vertigo.,colour
+Limited color options make it difficult to differentiate between social media icons.,colour
+Website uses color to indicate different user account activity; inaccessible for colorblind users.,colour
+Color choices do not consider the potential for users with migraines.,colour
+Website relies on color to differentiate between different thread replies in a forum.,colour
+Color scheme lacks clear visual hierarchy for navigation elements (e.g.; breadcrumbs).,colour
+Limited color customization options hinder user control over color contrast.,colour
+Website uses color to highlight keyboard shortcuts; inaccessible for users who rely on a mouse.,colour
+Text appears bolded in a way that reduces color contrast with background.,colour
+Progress bars lack clear color distinction between completed sections and loading indicators.,colour
+Color choices evoke feelings of anger and frustration for some users.,colour
+Charts and graphs use colors with poor luminosity; making data visualization difficult.,colour
+Website relies on color to differentiate between different user account types.,colour
+Color choices create a sense of disorientation for users with spatial processing difficulties.,colour
+Limited color options make it difficult to distinguish between active and inactive chat participants.,colour
+Website uses color to indicate different product availability (e.g.; in stock; out of stock).,colour
+Color choices do not consider the potential for users with visual processing disorders.,colour
+Insufficient contrast between table borders and cell content hinders readability.,colour
+Color scheme lacks clear visual separation between sidebars and main content area.,colour
+Website relies on color to differentiate between read and unread notifications.,colour
+Color choices do not consider the potential for users with tunnel vision.,colour
+Text appears distorted due to a textured background with low color contrast.,colour
+Color scheme creates a sense of fatigue for users who spend extended time on the website.,colour
+Limited color options make it difficult to distinguish between different file types in a download list.,colour
+Website uses color to indicate different learning module completion statuses.,colour
+Color choices do not consider the potential for users with light sensitivity.,colour
+Website relies on color to differentiate between different user comments in a forum.,colour
+Color scheme lacks a clear visual distinction between focusable and non-focusable elements (e.g.; buttons; links).,colour
+Limited color customization options make it difficult to adjust for different cultural color preferences.,colour
+Text appears italicized in a way that reduces color contrast with background.,colour
+Tooltips use text color that clashes with background; making them unreadable.,colour
+Color scheme evokes feelings of boredom and disengagement for some users.,colour
+Charts and graphs use colors that are not suitable for data visualization (e.g.; too similar).,colour
+Website relies on color to differentiate between different user permission levels.,colour
+Color choices create a sense of isolation for users with social anxiety.,colour
+Limited color options make it difficult to distinguish between different file types in a search result.,colour
+Website uses color to indicate urgency for tasks; inaccessible for users who rely on audio cues.,colour
+Insufficient contrast between error message text and background makes them difficult to notice.,colour
+Color scheme lacks clear visual distinction between content sections (e.g.; articles; reviews).,colour
+Website relies on color to differentiate between different user badges or achievements.,colour
+Color choices do not consider the potential for users with color constancy issues.,colour
+Text shadow blends in with background color; reducing readability.,colour
+Color scheme creates a sense of hypervigilance for users with PTSD.,colour
+Limited color options make it difficult to distinguish between different star ratings in a review system.,colour
+Website uses color to indicate different learning material difficulty levels.,colour
+Color choices do not consider the potential for users with seasonal affective disorder (SAD).,colour
+Website relies on color to differentiate between private and public messages.,colour
+Color scheme lacks clear visual cues for user actions (e.g.; confirmation; deletion).,colour
+Limited color customization options hinder user control over color temperature.,colour
+Website uses color to highlight keyboard shortcuts for accessibility tools; inaccessible for some users.,colour
+Text appears underlined in a way that reduces color contrast with background.,colour
+Carousel indicators lack clear color differentiation between active and inactive slides.,colour
+Color scheme evokes feelings of confusion and uncertainty for some users.,colour
+Charts and graphs rely on overly bright colors; causing eye strain.,colour
+Website uses color to differentiate between different user languages.,colour
+Color choices create a sense of claustrophobia for users with anxiety disorders.,colour
+Limited color options make it difficult to distinguish between active and completed steps in a multi-step process.,colour
+Website uses color to indicate different product categories (e.g.; new arrivals; sale items).,colour
+Color choices do not consider the potential for users with hemianopsia (blindness in half the visual field).,colour
+Insufficient contrast between pagination buttons and background makes navigation difficult.,colour
+Color scheme lacks clear visual separation between footers and main content area.,colour
+Website relies on color to differentiate between different user roles in a chatroom.,colour
+Color choices do not consider the potential for users with achromatopsia (complete color blindness).,colour
+Text appears invisible due to a transparent background with low color contrast.,colour
+Color scheme creates a sense of motion sickness for users who are prone to it.,colour
+Limited color options make it difficult to distinguish between different payment methods.,colour
+Website uses color to indicate different learning material types (e.g.; videos; quizzes).,colour
+Color choices do not consider the potential for users with nystagmus (involuntary eye movements).,colour
+Website relies on color to differentiate between different user mentions in a social media feed.,colour
+Color scheme lacks clear visual cues for error states (e.g.; broken links; missing content).,colour
+Limited color customization options make it difficult to adjust for different cognitive abilities.,colour
+Text with a thin outline color blends in with background; reducing readability.,colour
+Accordion menus lack clear color distinction between expanded and collapsed sections.,colour
+Color scheme evokes feelings of hostility and aggression for some users.,colour
+Charts and graphs use colors with poor contrast sensitivity; making data invisible for some users.,colour
+Website uses color to differentiate between different user locations (e.g.; country flags).,colour
+Color choices create a sense of overstimulation for users with sensory processing disorders.,colour
+Limited color options make it difficult to distinguish between different file types in a file upload dialog.,colour
+Website uses color to indicate different message types (e.g.; sent; received; unread).,colour
+Insufficient contrast between breadcrumbs and background color hinders navigation.,colour
+Color scheme lacks clear visual separation between headers and subheadings.,colour
+Website relies on color to differentiate between read and unread articles in a news feed.,colour
+Color choices do not consider the potential for users with visual field defects.,colour
+Text appears hidden within a decorative colored border; making it difficult to find.,colour
+Color scheme creates a sense of disorientation for users with visual snow.,colour
+Limited color options make it difficult to distinguish between active and inactive filters in a search bar.,colour
+Website uses color to indicate different course enrollment statuses (e.g.; enrolled; waitlisted).,colour
+Color choices do not consider the potential for users with visual crowding sensitivity.,colour
+Website relies on color to differentiate between different user upvotes and downvotes in a voting system.,colour
+Color scheme lacks clear visual hierarchy for progress indicators (e.g.; loading bars).,colour
+Limited color customization options make it difficult to adjust for users with different monitor resolutions.,colour
+Text with a drop shadow blends in with background; reducing readability.,colour
+Pop-up windows lack sufficient color contrast between text and background.,colour
+Color scheme evokes feelings of fatigue and exhaustion for some users.,colour
+Charts and graphs rely on overly similar colors; making data interpretation difficult.,colour
+Website uses color to differentiate between different user time zones.,colour
+Color choices create a sense of isolation for users with social anxiety disorders.,colour
+Limited color options make it difficult to distinguish between mandatory and optional fields in a form.,colour
+Website uses color to indicate different product availability for different regions.,colour
+Insufficient contrast between table headers and cell data hinders readability.,colour
+Color scheme lacks clear visual separation between content sections and advertisements.,colour
+Website relies on color to differentiate between active and completed quizzes.,colour
+Color choices do not consider the potential for users with visual agnosia (inability to recognize objects).,colour
+Text appears blurry due to a low-contrast background pattern.,colour
+Color scheme creates a sense of eyestrain for users with asthenopia (light sensitivity).,colour
+Limited color options make it difficult to distinguish between different social media platform icons.,colour
+Website uses color to indicate different learning material completion statuses for different users.,colour
+Color choices do not consider the potential for users with metamorphopsia (distorted vision).,colour
+Website relies on color to differentiate between different user replies in a forum thread (nested replies).,colour
+Color scheme lacks clear visual cues for keyboard navigation (e.g.; focus indicators).,colour
+Limited color customization options hinder user control over font size for better readability.,colour
+Font size too small for comfortable reading; especially on mobile devices.,size
+Important information hidden within small print text.,size
+Text appears squished together due to limited line spacing.,size
+Buttons with insufficient text size make it difficult to understand their purpose.,size
+Large blocks of text without clear formatting hinder readability.,size
+Inconsistent font sizes across the website create a visually confusing experience.,size
+Limited zoom functionality makes it difficult for users with visual impairments to enlarge text.,size
+Low contrast between text and background color makes reading small text even harder.,size
+Long lines of text without proper line breaks cause eye strain.,size
+Essential information buried within expandable sections with small font size.,size
+Mobile navigation menus with tiny icons and text are difficult to interact with.,size
+Text size not responsive; causing it to appear cut off on smaller screens.,size
+Lack of font size customization options limits accessibility for users with different needs.,size
+Text appears blurry when zoomed in due to low-resolution fonts.,size
+Essential calls to action use small font size; making them less noticeable.,size
+Overlapping text elements due to insufficient spacing make it difficult to read.,size
+Website relies heavily on images for information; inaccessible for users with visual impairments using screen readers.,size
+Long paragraphs with small font size discourage users from reading detailed content.,size
+Text size not adjustable through browser settings due to website restrictions.,size
+Data tables with small fonts and dense information are difficult to understand.,size
+Font size unsuitable for users with nearsightedness or presbyopia.,size
+Tiny error messages make it difficult to understand and fix mistakes.,size
+Limited white space between paragraphs creates a cluttered and overwhelming experience.,size
+Form fields with small text boxes make accurate data entry challenging.,size
+Long labels for form fields require excessive horizontal scrolling on mobile devices.,size
+Inconsistent line heights make the text appear uneven and visually jarring.,size
+Lack of alternative text descriptions for complex charts hinders screen reader users.,size
+Small progress bars with unclear indicators make it difficult to track website loading progress.,size
+Text size not optimized for different browser zoom levels.,size
+Important disclaimers hidden within small; light-colored text at the bottom of pages.,size
+Touch targets for interactive elements (buttons; links) are too small for precise interaction.,size
+Text size not bold enough for emphasis; making headings and key points less clear.,size
+Limited color customization options might not allow users to increase text contrast for better readability.,size
+Buttons with small icons and minimal text lack clarity in their function.,size
+Text appears pixelated when zoomed in due to poor font quality.,size
+Long email newsletters with small font size discourage users from reading them.,size
+Required fields in forms not visually highlighted; making them easy to miss.,size
+Densely packed information layout overwhelms users with visual processing difficulties.,size
+Website relies on visual cues like font size changes for navigation; inaccessible for screen reader users.,size
+Text appears cut off on certain screen resolutions due to fixed font sizes.,size
+Limited text scaling options make it difficult for users with dyslexia to adjust spacing.,size
+Small captions for images are easily missed; hindering understanding of visual content.,size
+Text size not considered for users with hand tremors; making interaction with small buttons difficult.,size
+Long lists with minimal spacing between items make scanning for information challenging.,size
+Pop-up windows with limited space force text to be shrunk; impacting readability.,size
+Website relies on hover effects for element size changes; inaccessible for touch devices.,size
+Limited font selection restricts users with specific font preferences for better readability.,size
+Text size not considered for users with cognitive disabilities who may need larger fonts.,size
+Important legal documents use small fonts; making them difficult to understand and agree to.,size
+Mobile app interfaces with tiny text elements are challenging to use on smaller screens.,size
+Long social media posts with small font size discourage user engagement and reading.,size
+Text size not responsive to different device orientations; leading to awkward layouts.,size
+Limited user control over text wrapping preferences can make long lines difficult to read.,size
+Text appears faded due to a light background color and small font size; further reducing readability.,size
+Densely packed product information boxes with small fonts overwhelm users during product browsing.,size
+Limited font weight options make it difficult to distinguish between bold and regular text for emphasis.,size
+Text size not considered for users with cultural backgrounds where larger fonts are preferred.,size
+Educational materials with small fonts can be difficult for children or users with learning disabilities.,size
+Website relies on small icons for navigation; requiring users to memorize their meanings.,size
+Text size not responsive to different browser window sizes; causing content to overflow.,size
+Limited character count for form fields restricts users from providing detailed information.,size
+Small font size combined with complex sentence structure makes reading comprehension difficult.,size
+Limited line height options make text appear cramped and reduce readability for users with dyslexia.,size
+Important user notifications appear in small; easily missed pop-up windows.,size
+Text size not considered for users with motor skills limitations who may struggle with small buttons.,size
+Long scrolling requirements due to condensed content layout make website navigation tedious.,size
+Website relies on small visual indicators for required form fields; inaccessible for users with color blindness.,size
+Text size not optimized for users with low vision who may need a larger magnification level.,size
+Densely packed product reviews with small fonts make it difficult to compare products.,size
+Limited customization options for font family can restrict users with specific visual needs.,size
+Limited accessibility features like screen reader compatibility make content inaccessible for visually impaired users.,size
+Text size not considered for users with cultural backgrounds where concise writing is not the norm.,size
+Information overload due to small text and excessive content on a single page.,size
+Limited ability to adjust text spacing can make content appear cluttered and overwhelming.,size
+Small error messages displayed within the same line as the input field; making it difficult to locate the error.,size
+Limited keyboard navigation options make it difficult for users who rely on them to access content with small elements.,size
+Text size not considered for users with ADHD who may benefit from larger fonts for focus.,size
+Densely packed tables with small text and minimal padding make data analysis challenging.,size
+Limited accessibility testing hinders website owners from identifying and addressing size-related accessibility issues.,size
+Text appears squished on high-resolution screens due to fixed font sizes.,size
+Limited control over line spacing makes text appear dense and difficult to follow.,size
+Small progress indicators make it unclear how much content remains to load.,size
+Text size not considered for users with hand tremors; making precise form filling challenging.,size
+Long dropdown menus with tiny text options require excessive scrolling on mobile devices.,size
+Limited font zoom functionality makes it difficult for users with cataracts to enlarge text.,size
+Small breadcrumbs for website navigation are easily missed; hindering user orientation.,size
+Text size not optimized for users relying on screen readers with different voice settings.,size
+Densely packed calendar views with small dates make scheduling difficult.,size
+Important terms and conditions hidden within small print at the bottom of checkout pages.,size
+Mobile app interfaces with tiny text labels for buttons make user interaction error-prone.,size
+Long forum threads with small font size discourage users from reading previous discussions.,size
+Text size not responsive to different screen brightness settings; impacting readability.,size
+Limited color contrast options for text size adjustments might not provide sufficient visibility for some users.,size
+Buttons with minimal text and small size make their purpose unclear; especially for new users.,size
+Text appears blurry on tablets due to low-resolution font scaling for smaller screens.,size
+Long chat message history with small font size makes it difficult to follow past conversations.,size
+Limited keyboard navigation options for expandable content make it inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where larger fonts are used for emphasis.,size
+Densely packed information layout with small text overwhelms users with visual processing difficulties.,size
+Text appears too small for comfortable reading on large monitors.,size
+Limited character preview for password fields makes it difficult to confirm correct entry.,size
+Small icons for close buttons on pop-ups can be accidentally clicked; leading to frustration.,size
+Text size not considered for users with arthritis; making precise clicking on small buttons difficult.,size
+Long lists with minimal padding between items make using checkboxes or radio buttons challenging.,size
+Limited font weight options make it difficult for users with dyslexia to distinguish emphasized text.,size
+Small progress bars with unclear text labels hinder understanding of download or upload progress.,size
+Text size not optimized for users with different reading speeds; potentially causing information overload.,size
+Densely packed comment sections with small fonts make it difficult to follow conversations.,size
+Important privacy policy details hidden within small; legalese-filled text boxes.,size
+Mobile app interfaces with tiny notification icons are easily missed by users.,size
+Long email threads with small font size discourage users from replying or forwarding.,size
+Text size not responsive to different device color temperature settings; impacting readability.,size
+Limited font color customization options might not allow users to increase text brightness for better visibility.,size
+Buttons with minimal text rely heavily on icons; making functionality unclear for users unfamiliar with the website.,size
+Text appears thin and difficult to read on certain screen types due to limited font weight options.,size
+Long social media bios with small font size make it difficult for users to understand user profiles.,size
+Limited keyboard navigation for tabbed content makes it inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where larger fonts are used for respect.,size
+Densely packed information carousels with small fonts make it difficult for users to absorb information quickly.,size
+Text appears blurry on low-resolution displays due to small font size.,size
+Limited ability to adjust paragraph indentation makes text appear like a block; hindering readability.,size
+Small tooltips disappear too quickly; making it difficult to understand their purpose.,size
+Text size not considered for users with limited dexterity; making precise interaction with small buttons challenging.,size
+Long lists with minimal vertical spacing make selecting options with a mouse difficult.,size
+Limited font kerning options can make text appear uneven and visually jarring.,size
+Small progress indicators without text updates leave users unsure of loading progress.,size
+Text size not optimized for users with different cultural reading habits (e.g.; top-to-bottom vs. left-to-right).,size
+Densely packed navigation menus with small fonts make website exploration tedious.,size
+Important disclaimers hidden within small; legalese-filled text pop-ups that disappear quickly.,size
+Mobile app login screens with tiny username and password fields make login prone to errors.,size
+Long forum threads with small font size and minimal visual separation between posts discourage user engagement.,size
+Text size not responsive to different device font rendering settings; impacting readability.,size
+Limited ability to adjust text alignment (left; right; center) can hinder reading flow for some users.,size
+Buttons with minimal text and small size rely heavily on color; inaccessible for users with color blindness.,size
+Text appears pixelated on high-resolution displays due to poor font scaling options.,size
+Long to-do lists with small font size make it difficult for users to prioritize tasks.,size
+Limited keyboard navigation options for accordions make it inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where clear hierarchy is established through font size.,size
+Densely packed information cards with small fonts overwhelm users with information overload.,size
+Text appears too large and overwhelming on small screens due to fixed font sizes.,size
+Limited ability to adjust text weight makes bold text appear overly bold for some users with visual sensitivities.,size
+Small captions for audio or video content are easily missed; hindering understanding.,size
+Text size not considered for users who may wear gloves and have difficulty with precise interaction on small buttons.,size
+Long horizontal scrolling requirements due to excessive content width make website navigation cumbersome.,size
+Limited font family options restrict users with specific visual preferences for better readability.,size
+Small close buttons on modal windows can be accidentally clicked; leading to frustration.,size
+Text size not optimized for users with different cultural reading speeds.,size
+Densely packed product listings with small fonts make product comparison difficult.,size
+Limited font style options (italic; underline) might not provide enough emphasis for some users.,size
+Mobile app interfaces with large icons and minimal text labels can be confusing for new users.,size
+Long articles with small font size discourage users from reading in-depth content.,size
+Text size not responsive to different device text scaling settings; impacting readability.,size
+Limited letter spacing options can make text appear crowded and difficult to read for users with dyslexia.,size
+Buttons with large text overwhelm the overall design and compete for user attention.,size
+Text appears distorted on curved displays due to limited font rendering options.,size
+Long message threads with large font size make it difficult to quickly scan through conversations.,size
+Limited keyboard navigation options for carousels make it inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where smaller fonts are preferred for efficiency.,size
+Densely packed information grids with large fonts can overwhelm users with visual processing difficulties.,size
+Text size not responsive to different browser zoom levels; causing layout issues.,size
+Limited character count for search bars restricts users from entering detailed search queries.,size
+Small captions for images force users to zoom in; disrupting the browsing experience.,size
+Text size not considered for users with carpal tunnel syndrome; making repetitive clicking on small buttons painful.,size
+Long lists with minimal padding make using drag-and-drop functionality challenging on touchscreens.,size
+Limited font clarity options can make text appear blurry for users with astigmatism.,size
+Small progress bars with limited color differentiation make it difficult to track download progress.,size
+Text size not optimized for users with different cognitive abilities who may benefit from larger fonts for better processing.,size
+Densely packed customer reviews with small fonts make it difficult to identify key product insights.,size
+Limited user control over font smoothing can make text appear jagged and difficult to read on certain screens.,size
+Mobile app interfaces with large buttons and minimal text labels can be difficult for users with small hands to interact with.,size
+Long social media captions with large font size make scrolling through feeds overwhelming.,size
+Text size not responsive to different device font smoothing settings; impacting readability.,size
+Limited ability to adjust text letter case (uppercase; lowercase) can hinder readability for some users with visual processing difficulties.,size
+Buttons with large; decorative fonts can be difficult to read and understand their purpose.,size
+Text appears choppy on low-bandwidth connections due to limited font optimization.,size
+Long code snippets with small font size make it difficult for developers to review code.,size
+Limited keyboard navigation for date pickers make it inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where spacing between words is minimal.,size
+Densely packed information bubbles with large fonts can obscure underlying website content.,size
+Text size not adjustable through browser extensions due to website restrictions.,size
+Limited ability to customize text line height makes content appear cramped for users with dyslexia.,size
+Tiny error messages displayed on separate pages require excessive navigation to understand and correct mistakes.,size
+Text size not considered for users with tremors in their hands; making precise form filling challenging.,size
+Long horizontal navigation bars with small font size require excessive scrolling on smaller screens.,size
+Limited font fallback options can cause text to display incorrectly on certain devices.,size
+Small progress bars with unclear completion percentages make it difficult to track upload progress.,size
+Text size not optimized for users relying on text-to-speech software with different voice settings.,size
+Densely packed user profiles with small fonts make it difficult to understand other users.,size
+Important error messages hidden within small; red text notifications that disappear quickly.,size
+Mobile app interfaces with large buttons close together can be accidentally clicked by users.,size
+Long forum threads with large font size and minimal visual separation between posts make them difficult to follow.,size
+Text size not responsive to different device language settings; impacting readability for multilingual users.,size
+Limited ability to adjust text shadow can make text appear blurry and difficult to read for some users.,size
+Buttons with large; decorative fonts and minimal text rely heavily on icons; inaccessible for users unfamiliar with the website.,size
+Text appears outdated on modern displays due to limited font rendering options for high-resolution screens.,size
+Long comment threads with large font size make it difficult to see the overall conversation flow.,size
+Limited keyboard navigation for dropdown menus make them inaccessible for users who rely on them.,size
+Text size not considered for users with cultural backgrounds where fonts are traditionally smaller for space efficiency.,size
+Densely packed information timelines with large fonts overwhelm users with historical data overload.,size
+Animation causes content to jump around the screen; making it difficult for users with motion sickness to navigate.,animation
+Website relies on animated elements to convey information; inaccessible for users with slow internet connections.,animation
+Fast-paced animations make it difficult for users with visual processing difficulties to follow the content.,animation
+Auto-playing animations with sound distract users and hinder focus; especially for users with ADHD.,animation
+Animated carousels with short transition times make it difficult for users to read content before it changes.,animation
+Website relies on flashing animations; which can trigger seizures for users with photosensitive epilepsy.,animation
+Essential information hidden within disappearing animated pop-ups; making it difficult to capture important details.,animation
+Animated progress bars with unclear visuals make it difficult to understand loading progress.,animation
+Animations cause focus to shift rapidly; making it challenging for users with dyslexia to read content.,animation
+Website relies on color changes within animations to convey information; inaccessible for users with color blindness.,animation
+Excessive use of animation creates a sense of clutter and overwhelms users with sensory processing difficulties.,animation
+Animated elements with complex movements are difficult for users with cognitive disabilities to follow.,animation
+Text overlays animated backgrounds; making it difficult to read due to reduced contrast.,animation
+Animations automatically loop; causing distraction and hindering user control over content.,animation
+Website relies on animated hover effects for navigation elements; inaccessible for users on touch devices.,animation
+Fast-paced animations make it difficult for users with screen readers to understand the context of changing content.,animation
+Animations cause focus to jump between elements; making it difficult for users with motor skill limitations to interact with the website.,animation
+Website relies on animated CAPTCHAs; inaccessible for users with visual impairments or slow reflexes.,animation
+Animated instructional videos lack captions or transcripts; making them inaccessible for users who are deaf or hard of hearing.,animation
+Essential information presented solely within an animated explainer video; inaccessible for users who prefer text-based content.,animation
+Website relies on animated transitions between pages; causing disorientation for users with vestibular disorders.,animation
+Fast-paced scrolling animations make it difficult for users with slow internet connections to keep up with content.,animation
+Subtle animations make it unclear when interactive elements can be clicked or focused on.,animation
+Auto-playing animations with sound can be disruptive for users in quiet environments.,animation
+Animated progress indicators lack clear visual cues for completion; leaving users unsure of loading status.,animation
+Website uses animations to highlight important information; inaccessible for users who rely on screen readers.,animation
+Excessive use of animation slows down website loading times; impacting users with slow internet connections.,animation
+Animated backgrounds create a moving visual field; making it difficult for users with migraines to focus on content.,animation
+Animations cause content to shift horizontally; making it difficult for users who rely on screen readers to track information.,animation
+Website relies on animated text effects like scrolling text banners; inaccessible for users with reading difficulties.,animation
+Excessive use of animation can be distracting for users who are easily overwhelmed by visual stimuli.,animation
+Animated elements with unpredictable movements are difficult for users with autism spectrum disorder to anticipate.,animation
+Text overlays animated charts and graphs; making it difficult to read data due to reduced contrast.,animation
+Animations automatically play on page load; leaving users no control over the experience.,animation
+Website relies on animated tooltips that disappear quickly; making it difficult for users to understand their purpose.,animation
+Fast-paced animations make it difficult for users with visual snow to distinguish between content and visual artifacts.,animation
+Animations cause focus to shift rapidly between elements; making it difficult for users with hand tremors to interact accurately.,animation
+Website relies on animated progress rings; inaccessible for users with color blindness or low vision.,animation
+Animated instructional videos lack pause and rewind functionality; making it difficult for users to follow complex steps.,animation
+Essential information presented solely within an animated infographic; inaccessible for users who prefer text-based content or struggle with visual comprehension.,animation
+Website relies on animated page loads that obscure content for a prolonged period; frustrating users.,animation
+Fast-paced animations make it difficult for users who rely on assistive technologies like screen magnifiers to keep up with content changes.,animation
+Subtle animations for error messages make it easy for users to miss important feedback and continue making mistakes.,animation
+Auto-playing animations with sound can startle users who are not expecting them; especially those with anxiety disorders.,animation
+Animated progress indicators lack clear audio cues for completion; leaving users with visual impairments unsure of loading status.,animation
+Website relies on animations to differentiate between focusable and non-focusable elements; inaccessible for users who rely on keyboard navigation.,animation
+Excessive use of animation can drain battery life on mobile devices; impacting users with limited battery power.,animation
+Animated backgrounds with flashing elements can trigger seizures for users with photosensitive epilepsy.,animation
+Animations cause content to resize dynamically; making it difficult for users with screen readers to track information flow.,animation
+Website relies on animated text effects like blinking text; inaccessible for users with epilepsy or attention disorders.,animation
+Excessive use of animation can be overwhelming for users with limited cognitive abilities who struggle to process rapid changes.,animation
+Animated elements with jerky movements are difficult for users with Parkinson's disease to follow.,animation
+Text overlays animated heatmaps; making it difficult to read data due to reduced contrast and moving elements.,animation
+Animations automatically loop indefinitely; distracting users and making it difficult to focus on specific content.,animation
+Website relies on animated social media feed updates; making it difficult for users with visual processing difficulties to follow conversations.,animation
+Fast-paced animations make it difficult for users with age-related macular degeneration to distinguish details within animations.,animation
+Animations cause focus to shift rapidly between navigation elements; making it difficult for users with dyspraxia to navigate accurately.,animation
+Website relies on animated CAPTCHAs with moving objects; inaccessible for users with visual impairments or slow reflexes who struggle to identify them quickly.,animation
+Animated instructional videos lack keyboard shortcuts for playback controls; making them inaccessible for users who rely on keyboard navigation.,animation
+Essential information presented solely within an interactive animated map; inaccessible for users with motor skill limitations or those who struggle with interactive elements.,animation
+Website relies on animated pop-ups that require precise mouse hovering to activate; inaccessible for users with touch devices or limited dexterity.,animation
+Fast-paced scrolling animations can cause nausea and dizziness for users prone to motion sickness.,animation
+Subtle animations for success or error messages make it unclear if an action was completed or not.,animation
+Auto-playing animations with sound can be disruptive for users who rely on screen readers to understand website content.,animation
+Animated progress bars lack keyboard controls for pausing or skipping; impacting users who rely on keyboard navigation.,animation
+Website uses animations to highlight keyboard shortcuts; inaccessible for users who rely on mouse navigation.,animation
+Excessive use of animation can make it difficult for users with slow internet connections to focus on the primary content.,animation
+Animated backgrounds with high contrast patterns can trigger migraines for users who are sensitive to visual stimuli.,animation
+Animations cause content to shift vertically; making it difficult for users who rely on screen readers to track information flow through a page.,animation
+Website relies on animated text effects with changing fonts; inaccessible for users with dyslexia or other reading difficulties.,animation
+Excessive use of animation can be overwhelming for users with cultural backgrounds where websites are expected to be more static.,animation
+Animated elements with unpredictable movements are difficult for users with ADHD to maintain focus on.,animation
+Text overlays animated timelines; making it difficult to read historical data due to reduced contrast and moving elements.,animation
+Animations automatically play on hover interactions; making it difficult for users with touch devices to interact with the website.,animation
+Website relies on animated instructional overlays that disappear quickly; making it difficult for users to learn complex functionalities.,animation
+Fast-paced animations make it difficult for users with nystagmus (involuntary eye movements) to follow the content.,animation
+Animations cause focus to shift rapidly between elements; making it difficult for users who rely on screen readers to understand the context of changing content.,animation
+Website relies on animated progress bars that rely on size changes; inaccessible for users with visual impairments who struggle to perceive size differences.,animation
+Animated instructional videos lack transcripts or alternative audio descriptions; inaccessible for users who are deaf or hard of hearing and those who prefer text-based learning.,animation
+Essential information presented solely within an animated product demonstration; inaccessible for users with slow internet connections or those who prefer text-based product information.,animation
+Website relies on animated backgrounds with parallax scrolling; disorienting users with vestibular disorders.,animation
+Fast-paced animations make it difficult for users with dyslexia to keep track of changing letterforms.,animation
+Subtle animations for form validation can lead users to submit forms with errors.,animation
+Auto-playing animations with sound can be disruptive for users in public spaces where quiet is expected.,animation
+Animated progress bars lack clear text labels; making it difficult for users to understand loading progress details.,animation
+Website uses animations to differentiate between read and unread messages; inaccessible for users who rely on screen readers.,animation
+Excessive use of animation can mask website content; making it difficult for users with low vision to perceive information.,animation
+Animated backgrounds with complex patterns can be distracting for users with autism spectrum disorder.,animation
+Animations cause content to flicker; potentially triggering seizures for users with photosensitive epilepsy.,animation
+Website relies on animated text effects with disappearing text; inaccessible for users with visual processing difficulties.,animation
+Excessive use of animation can be culturally insensitive; as some cultures prefer websites with a more formal and static presentation.,animation
+Animated elements with morphing shapes are difficult for users with cognitive disabilities to process and understand.,animation
+Text overlays animated image carousels; making it difficult to read captions due to reduced contrast and rapid image changes.,animation
+Animations automatically play on page load with no user control; potentially causing startle for users with anxiety disorders.,animation
+Website relies on animated social media feed elements that disappear quickly; making it difficult for users with slower processing speeds to follow conversations.,animation
+Fast-paced animations make it difficult for users who rely on assistive technologies like screen readers to understand the context of changing content before it disappears.,animation
+Animations cause focus to shift rapidly between form fields; making it difficult for users with motor skill limitations to accurately fill out forms.,animation
+Website relies on animated CAPTCHAs with distorted text; inaccessible for users with visual impairments or learning disabilities.,animation
+Animated instructional videos lack closed captions or transcripts; inaccessible for users who are deaf or hard of hearing and those who prefer text-based learning.,animation
+Essential information presented solely within an animated presentation; inaccessible for users with attention disorders or those who prefer a self-paced learning experience.,animation
+Website relies on animated page transitions that create a sense of disorientation for users with Meniere's disease (inner ear disorder).,animation
+Fast-paced animations make it difficult for users relying on text-to-speech software to keep up with the changing content.,animation
+Subtle animations for required form fields can lead users to miss crucial information and submit incomplete forms.,animation
+Auto-playing animations with sound can be disruptive for users who are neurodivergent and easily startled by unexpected stimuli.,animation
+Animated progress bars lack clear visual differentiation between completed and ongoing progress; confusing users.,animation
+Website uses animations to highlight clickable elements; inaccessible for users who rely on keyboard navigation and may miss interactive areas.,animation
+Excessive use of animation can slow down website loading times for users with data caps on their internet plans.,animation
+Animated backgrounds with high contrast patterns can trigger visual stress for users with migraines.,animation
+Animations cause content to change layout dynamically; making it difficult for users with screen readers to track information flow through a page.,animation
+Website relies on animated text effects with changing colors; inaccessible for users with color blindness.,animation
+Excessive use of animation can be overwhelming for users who are new to the website and struggle to understand its functionality.,animation
+Animated elements with erratic movements are difficult for users with visual field defects to track and follow.,animation
+Text overlays animated progress charts; making it difficult to read data due to reduced contrast and moving elements.,animation
+Animations automatically play on form submission; potentially causing frustration for users who may have made errors and need to revise their input.,animation
+Website relies on animated social media feed elements that change content rapidly; making it difficult for users with dyslexia to follow conversations.,animation
+Fast-paced animations make it difficult for users who rely on screen magnification tools to keep up with the changing content displayed on the screen.,animation
+Animations cause focus to shift rapidly between close buttons in pop-up windows; making it difficult for users with tremors to close them accurately.,animation
+Website relies on animated progress circles that depend on color changes; inaccessible for users with color blindness or low vision.,animation
+Animated instructional videos lack a clear play/pause button; making it difficult for users to control the learning pace.,animation
+Essential information presented solely within an animated product tutorial; inaccessible for users who prefer text-based instructions or struggle with following complex visual demonstrations.,animation
+Website relies on animated page transitions that cause nausea for users prone to motion sickness.,animation
+Fast-paced animations make it difficult for users with age-related macular degeneration to distinguish details within moving elements.,animation
+Subtle animations for close buttons on modal windows can lead users to accidentally click on the content behind them.,animation
+Auto-playing animations with sound can be disruptive for users who listen to music or podcasts while browsing.,animation
+Animated progress bars lack clear audio cues for completion; leaving users with hearing impairments unsure of loading status.,animation
+Website uses animations to differentiate between active and inactive filters; inaccessible for users who rely on color vision alone.,animation
+Excessive use of animation can drain battery life on laptops; impacting users on long journeys.,animation
+Animated backgrounds with strobing effects can trigger seizures for users with photosensitive epilepsy.,animation
+Animations cause content to resize dynamically; making it difficult for users with screen readers to maintain context when content jumps around.,animation
+Website relies on animated text effects with disappearing letters; inaccessible for users with slow reading speeds or dyslexia.,animation
+Excessive use of animation can be age-inappropriate for websites targeting older demographics who may prefer a simpler user experience.,animation
+Animated elements with jerky movements are difficult for users with coordination issues to track and interact with.,animation
+Text overlays animated bar charts; making it difficult to compare data points due to reduced contrast and moving elements.,animation
+Animations automatically play on scroll interaction; potentially causing frustration for users who prefer a slower browsing pace.,animation
+Website relies on animated social media feed elements that autoplay sound effects; disruptive for users in quiet environments.,animation
+Fast-paced animations make it difficult for users with visual processing difficulties to distinguish between foreground and background elements.,animation
+Animations cause focus to shift rapidly between navigation menus; making it difficult for users with attention deficit disorder to focus on their intended action.,animation
+Website relies on animated CAPTCHAs with distorted audio; inaccessible for users with hearing impairments or auditory processing difficulties.,animation
+Animated instructional videos lack a rewind functionality; making it difficult for users to revisit specific steps in the learning process.,animation
+Essential information presented solely within an animated customer testimonial; inaccessible for users who struggle with understanding information presented through spoken word.,animation
+Website relies on animated page transitions that disorient users who are unfamiliar with the website layout.,animation
+Fast-paced animations make it difficult for users with screen readers to understand the order in which content appears on the page.,animation
+Subtle animations for success or error messages can be easily missed by users with visual inattention.,animation
+Auto-playing animations with sound can be disruptive for users with auditory processing disorders.,animation
+Animated progress bars lack clear visual indicators for pausing or skipping download progress; limiting user control.,animation
+Website uses animations to highlight keyboard navigation shortcuts; inaccessible for users who are new to keyboard navigation.,animation
+Excessive use of animation can cause cognitive overload for users with learning disabilities who struggle to process rapid changes.,animation
+Animated backgrounds with complex patterns can be distracting for users with visual field cuts.,animation
+Animations cause content to flicker on certain screen refresh rates; potentially triggering seizures for users with photosensitive epilepsy.,animation
+Website relies on animated text effects with reversed color schemes; inaccessible for users with visual impairments who struggle with low contrast.,animation
+Excessive use of animation can alienate users who prefer a more traditional and predictable website experience.,animation
+Animated elements with morphing shapes are difficult for users with apraxia (difficulty planning and coordinating movements) to interact with accurately.,animation
+Text overlays animated heatmaps; making it difficult to read data due to reduced contrast; moving elements; and complex data visualization.,animation
+Animations automatically play on hover interactions for touch devices; causing accidental activation for users with tremors or limited dexterity.,animation
+Website relies on animated tooltips that appear and disappear quickly; making it difficult for users to understand their purpose before they vanish.,animation
+Fast-paced animations make it difficult for users with cataracts to distinguish details within moving elements.,animation
+Animations cause focus to shift rapidly between content sections; making it difficult for users with dyslexia to maintain focus on the reading task.,animation
+Website relies on animated progress bars that depend on size changes for completion; inaccessible for users with visual impairments who struggle to perceive size differences.,animation
+Animated instructional videos lack a search function; making it difficult for users to find specific information within the video content.,animation
+Essential information presented solely within an animated case study; inaccessible for users who prefer text-based information or struggle with understanding complex narratives.,animation
+Website relies on animated page transitions that can cause users with slow internet connections to experience delays and broken layouts.,animation
+Fast-paced animations make it difficult for users with cultural backgrounds that emphasize a slower reading pace to keep up with content.,animation
+Subtle animations for close buttons on alerts can lead users to click on the wrong element and accidentally confirm the alert.,animation
+Auto-playing animations with sound can be disruptive for users who are browsing in low-light environments and rely on screen brightness adjustments.,animation
+Animated progress bars lack clear visual differentiation between successful and failed download attempts; confusing users about the outcome.,animation
+Website uses animations to differentiate between mandatory and optional form fields; inaccessible for users who rely on screen readers that may not announce animation cues.,animation
+Excessive use of animation can make it difficult for users with limited technical knowledge to understand website functionality.,animation
+Animated backgrounds with high contrast patterns can trigger visual discomfort for users with light sensitivity.,animation
+Animations cause content to change position dynamically; making it difficult for users who rely on assistive technologies like screen magnifiers to keep track of the information.,animation
+Website relies on animated text effects with changing fonts and sizes; inaccessible for users with visual processing difficulties who struggle with dynamic text formatting.,animation
+Excessive use of animation can be perceived as unprofessional for websites targeting a business audience who may expect a more serious presentation.,animation
+Animated elements with spinning objects are difficult for users with dizziness or vertigo to track and interact with.,animation
+Text overlays animated product demos; making it difficult to read product details due to reduced contrast and moving elements.,animation
+Animations automatically play on page load with no user control; potentially causing frustration for users who may want to focus on specific content first.,animation
+Website relies on animated social media feed elements that autoplay videos; leading to excessive data usage for users on limited data plans.,animation
+Fast-paced animations make it difficult for users with slow internet connections to keep up with the changing content; potentially causing frustration and disengagement.,animation
+Animations cause focus to shift rapidly between login form fields; making it difficult for users with dyspraxia to accurately enter their credentials.,animation
+Website relies on animated CAPTCHAs with distorted images; inaccessible for users with visual impairments or visual agnosia (difficulty recognizing objects).,animation
+Animated instructional videos lack an option to adjust playback speed; limiting accessibility for users who prefer a slower or faster learning pace.,animation
+Essential information presented solely within an animated explainer video with limited text captions; inaccessible for users who are deaf or hard of hearing and those who prefer text-based explanations.,animation
+Website relies on animated page transitions that can cause users with ADHD to become hyperfocused on the animation and miss the actual content loading.,animation
+Fast-paced animations make it difficult for users with cultural backgrounds that value clear hierarchy to understand the importance of different website sections.,animation
+Subtle animations for form validation errors can lead users to submit forms with mistakes and receive confusing error messages later.,animation
+Auto-playing animations with sound can be disruptive for users who rely on text-to-speech software and the conflicting audio can be overwhelming.,animation
+Animated progress bars lack clear text labels or percentages; making it difficult for users to gauge download or upload progress accurately.,animation
+Website uses animations to differentiate between clickable and non-clickable elements; inaccessible for users who rely on touch input and may not perceive subtle animation cues.,animation
+Excessive use of animation can make it difficult for users with color blindness to distinguish between interactive elements and static content.,animation
+Animated backgrounds with complex patterns can be distracting for users on the autism spectrum who struggle with visual processing overload.,animation
+Animations cause content to change color dynamically; potentially triggering seizures for users with photosensitive epilepsy.,animation
+Website relies on animated text effects with neon colors; inaccessible for users with visual impairments who struggle with bright colors and low contrast.,animation
+Excessive use of animation can be seen as childish or unprofessional for websites targeting a mature audience.,animation
+Animated elements with pulsating effects are difficult for users with migraines to look at for extended periods.,animation
+Text overlays animated product carousels; making it difficult to read product descriptions due to reduced contrast and rapid image changes.,animation
+Animations automatically play on user interaction; potentially causing frustration for users who may accidentally trigger animations and disrupt their browsing flow.,animation
+Website relies on animated social media feed elements that autoplay sound effects and music; leading to a noisy and overwhelming user experience.,animation
+Fast-paced animations make it difficult for users with screen readers to understand the context of the content before it disappears from the screen.,animation
+Animations cause focus to shift rapidly between navigation elements; making it difficult for users with Parkinson's disease to control their cursor and interact accurately.,animation
+Website relies on animated CAPTCHAs with time limits; inaccessible for users with slow reflexes or cognitive disabilities who may struggle to complete the challenge within the time frame.,animation
+Animated instructional videos lack a transcript or closed captions; inaccessible for users who are deaf or hard of hearing and those who prefer text-based learning.,animation
+Essential information presented solely within an animated infographic with limited interactivity; inaccessible for users with limited motor skills or those who prefer a more exploratory learning experience.,animation
