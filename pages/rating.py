@@ -11,9 +11,15 @@ import numpy as np
 st.header("Community Rating")
 df = pd.read_csv("./dataset/comments.csv")
 
+st.text("")
+st.text("")
+st.text("")
 st.subheader("Dataset")
-st.write(df.head())
-st.bar_chart(df.groupby(["category"]).size())
+col1, col2 = st.columns(2)
+with col1:
+    st.write(df.head())
+with col2:
+    st.bar_chart(df.groupby(["category"]).size())
 
 # for testing
 # just use LLM to generate fake comments and ratings to train
@@ -36,7 +42,7 @@ st.subheader("Sentiment Analysis")
 
 # filter mood of comment
 st.subheader("Evaluation")
-st.write("Mood of comment: Positive / Negative")
+st.write("Helpful comment? Positive / Negative")
 
 # filter invalid feedback
 
@@ -46,7 +52,7 @@ st.write("Mood of comment: Positive / Negative")
 st.text("")
 st.text("")
 st.text("")
-st.subheader("SVC Topic Classification")
+st.subheader("Linear SVC Text Classification")
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
