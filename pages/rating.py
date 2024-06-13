@@ -27,7 +27,18 @@ comment = st.text_input("Website improvements to reduce reliance on screen reade
 
 
 
+# sentiment analysis
+st.text("")
+st.text("")
+st.text("")
+st.subheader("Sentiment Analysis")
+# results
 
+# filter mood of comment
+st.subheader("Evaluation")
+st.write("Mood of comment: Positive / Negative")
+
+# filter invalid feedback
 
 
 
