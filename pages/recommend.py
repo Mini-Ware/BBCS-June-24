@@ -24,7 +24,7 @@ def hex_to_numeric(hex_code):
   return (r + g + b) / 3
 
 if image:
-  st.write("image uploaded")
+  st.write("Image uploaded, majority two colours are")
 
   thief = ColorThief(image)
   palette = thief.get_palette(color_count=2)
@@ -58,7 +58,7 @@ if image:
   from sklearn.preprocessing import StandardScaler
   scaler = StandardScaler()
   X_train = scaler.fit_transform(X_train)
-  st.write(X_test)
+  # st.write(X_test)
   X_test = scaler.transform(X_test)
 
   from sklearn.linear_model import LogisticRegression
@@ -76,15 +76,16 @@ if image:
   st.text("")
   st.text("")
   st.subheader("Evaluation")
-  st.write("Accuracy: "+str(accuracy))
-  # data = [hex_to_numeric(test_color_1),hex_to_numeric(test_color_2),2.5]\
-  data = {
-    'color1_numeric':hex_to_numeric(test_color_1),
-    'color2_numeric':hex_to_numeric(test_color_2),
-    'Contrast Ratio': 2.5
-  }
-  df = pd.DataFrame(data, index=['color1_numeric', 'color2_numeric','Contrast Ratio'])
-  # st.write(test)
-  st.write("Good colour contrast? "+clf.predict(scaler.transform(df)))
-  st.subheader("Accuracy")
+
+
+  data = [[hex_to_numeric(test_color_1), hex_to_numeric(test_color_2), 2.5]]
+  df = pd.DataFrame(data, columns=['color1_numeric', 'color2_numeric', 'Contrast Ratio'])
+  prediction = clf.predict(df)
+  result = (prediction[0] == 1)
+  st.write("Result: "+str(prediction))
+  if result:
+    st.write("Meaning: Good Contrast")
+  else:
+    st.write("Meaning: Bad Contrast")
+
 
