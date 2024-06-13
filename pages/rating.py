@@ -7,7 +7,7 @@ import numpy as np
 # svc classification model
 # sentient analysis
 # filter out positive comments
-
+st.set_page_config(page_title="Categorise Comments", page_icon="🤔")
 st.header("Community Rating")
 df = pd.read_csv("./dataset/comments.csv")
 
@@ -40,11 +40,11 @@ st.text("")
 st.subheader("Sentiment Analysis")
 # results
 
-# filter mood of comment
+# related to improvements?
 st.subheader("Evaluation")
-st.write("Helpful comment? Positive / Negative")
-
-# filter invalid feedback
+st.write("Related to improvements? Positive / Negative")
+# filter sarcastic comments?
+st.write("Actually helpful? Positive / Negative")
 
 
 
@@ -81,7 +81,6 @@ for category in categories:
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.naive_bayes import MultinomialNB
 
 X_train, X_test, y_train, y_test = train_test_split(df['comment'], df['category'], random_state = 0)
 count_vect = CountVectorizer()
@@ -93,3 +92,14 @@ clf = SVC(kernel='linear').fit(X_train_tfidf, y_train)
 # results
 st.subheader("Evaluation")
 st.write("Issue category: "+str(clf.predict(count_vect.transform([comment]))))
+
+# split tree test results
+from sklearn.metrics import accuracy_score, classification_report
+X_test_tfidf = tfidf_transformer.transform(count_vect.transform(X_test))
+y_pred = clf.predict(X_test_tfidf)
+accuracy = accuracy_score(y_test, y_pred)
+report = classification_report(y_test, y_pred)
+st.write("F1 Score")
+st.code(accuracy)
+st.write("Accuracy Report")
+st.code(report)
