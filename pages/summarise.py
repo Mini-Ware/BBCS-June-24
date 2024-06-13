@@ -7,16 +7,24 @@ from transformers import BartForConditionalGeneration, BartTokenizer
 from gtts import gTTS
 import os
 
+# streamlit
+st.set_page_config(page_title="TTS Summariser", page_icon="💬")
+st.title("Webpage Summariser with TTS")
+url = st.text_input("Enter URL of the webpage:")
+summarise_button = st.button("Summarise")
+
 # fetch website content
 def find_main_content(url):
     try:
-        response = requests.get(url)
+        response = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}, stream=True)
 
         if response.status_code != 200:
-            st.error(f"Failed to fetch content from {url}.")
+            st.error(f"Failed to fetch content from {url}. Response code is {response.status_code}")
             return None
 
-        soup = BeautifulSoup(response.content, 'html.parser')
+        with st.expander("Full content of website"):
+            st.write(response.text)
+        soup = BeautifulSoup(response.text, 'html.parser')
         main_content = ""
         for tag in soup.find_all(['p', 'article', 'div']):
             text = tag.get_text(strip=True)
@@ -54,14 +62,10 @@ def text_to_speech(text):
         st.error(f"An error occurred while converting text to speech: {e}")
         return None
 
-# streamlit 
-st.set_page_config(page_title="TTS Summariser", page_icon="💬")
-
-st.title("Webpage Summariser with TTS")
-url = st.text_input("Enter URL of the webpage:")
-
-if st.button("Summarise"):
+# streamlit
+if summarise_button:
     main_content = find_main_content(url)
+    page_content = "test"
     if main_content:
         summarised_content = summarise_content(main_content)
         if summarised_content:
